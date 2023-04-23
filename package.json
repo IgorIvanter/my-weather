@@ -1,6 +1,6 @@
 {
-  "name": "weather-app",
-  "homepage": "https://igorivanter.github.io/weather-app",
+  "name": "MyWeather",
+  "homepage": "https://igorivanter.github.io/my-weather",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
